@@ -12,29 +12,19 @@ We would be continuing this program by extending it to a 7 weeks learning challe
 
 Members will choose a category to learn from and we would provide a recommended list of FREE tutorials and resources members during these 7 weeks and engage them daily with motivation, more resources and tips.
 
-This challenge starts on 11TH MAY 2020 and ends on the 22ND JUNE 2020.
+This challenge starts on **11TH MAY 2020** and ends on the **22ND JUNE 2020**.
 
 ## Categories
 
-- Web/ Mobile Development
+- **Web/ Mobile Development** (Mentors: [Elewude Okikijesu](https://github.com/helewud), [Ahmed Yusuf](https://github.com/iloveteajay) and [Nelson Michael](https://github.com/theSultan00))
 
-Mentors: [Elewude Okikijesu](https://github.com/helewud), [Ahmed Yusuf](https://github.com/iloveteajay) and [Nelson Michael](https://github.com/theSultan00)
+- **Data Science/ Machine Learning** (Mentors: [Aziz Abdulsamad](https://github.com/Abdulsamod1), [Yoma Okobiah](https://github.com/yomdroid) and [Nkechi Diana](https://github.com/nkdiana))
 
-- Data Science/ Machine Learning
+- **UI/UX Design** (Mentors: [Marvin Ogah](https://github.com/dudesoamazing) and [Bolaji Ayodeji](https://github.com/BolajiAyodeji))
 
-Mentors: [Aziz Abdulsamad](https://github.com/Abdulsamod1), [Yoma Okobiah](https://github.com/yomdroid) and [Nkechi Diana](https://github.com/nkdiana)
+- **Cloud Computing** (Mentors: [Obinna Odirionye](https://github.com/nerdeveloper) and [Abdullahi Adebayo](https://github.com/adabsmith)
 
-- UI/UX Design
-
-Mentors: [Marvin Ogah](https://github.com/dudesoamazing) and [Bolaji Ayodeji](https://github.com/BolajiAyodeji)
-
-- Cloud Computing
-
-Mentors: [Obinna Odirionye](https://github.com/nerdeveloper) and [Abdullahi Adebayo](https://github.com/adabsmith)
-
-- Technical Writing
-
-Mentors: [Bolaji Ayodeji](https://github.com/BolajiAyodeji) and [Eddidiong Asipko](https://github.com/edyasikpo)
+- **Technical Writing** (Mentors: [Bolaji Ayodeji](https://github.com/BolajiAyodeji) and [Eddidiong Asipko](https://github.com/edyasikpo))
 
 ## Main Rules
 
