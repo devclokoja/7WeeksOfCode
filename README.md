@@ -22,7 +22,7 @@ This challenge starts on **11TH MAY 2020** and ends on the **22ND JUNE 2020**.
 
 - **UI/UX Design** (Mentors: [Marvin Ogah](https://github.com/dudesoamazing) and [Sani Rich](https://github.com/sarscode))
 
-- **Cloud Computing** (Mentors: [Obinna Odirionye](https://github.com/nerdeveloper) and [Abdullahi Adebayo](https://github.com/adabsmith)
+- **Cloud Computing** (Mentors: [Obinna Odirionye](https://github.com/nerdeveloper) and [Abdullahi Adebayo](https://github.com/adabsmith))
 
 - **Technical Writing** (Mentors: [Bolaji Ayodeji](https://github.com/BolajiAyodeji) and [Eddidiong Asipko](https://github.com/edyasikpo))
 
