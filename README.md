@@ -16,11 +16,11 @@ This challenge starts on **11TH MAY 2020** and ends on the **22ND JUNE 2020**.
 
 ## Categories
 
-- **Web/ Mobile Development** (Mentors: [Elewude Okikijesu](https://github.com/helewud), [Ahmed Yusuf](https://github.com/iloveteajay) and [Nelson Michael](https://github.com/theSultan00))
+- **Web/ Mobile Development** (Mentors: [Ibrahim Olamilekan](https://github.com/codinger41), [Elewude Okikijesu](https://github.com/helewud), [Ahmed Yusuf](https://github.com/iloveteajay), [Nelson Michael](https://github.com/theSultan00) and [Sani Rich](https://github.com/sarscode))
 
 - **Data Science/ Machine Learning** (Mentors: [Aziz Abdulsamad](https://github.com/Abdulsamod1), [Yoma Okobiah](https://github.com/yomdroid) and [Nkechi Diana](https://github.com/nkdiana))
 
-- **UI/UX Design** (Mentors: [Marvin Ogah](https://github.com/dudesoamazing) and [Sani Rich](https://github.com/sarscode))
+- **UI/UX Design** (Mentors: [Marvin Ogah](https://github.com/dudesoamazing), [Peace Ojemeh](https://github.com/perriefidelis), and [Sani Rich](https://github.com/sarscode))
 
 - **Cloud Computing** (Mentors: [Obinna Odirionye](https://github.com/nerdeveloper) and [Abdullahi Adebayo](https://github.com/adabsmith))
 
