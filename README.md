@@ -38,7 +38,7 @@ This challenge starts on **11TH MAY 2020** and ends on the **22ND JUNE 2020**.
 
 - Choose a category to learn from
 - Fill the application form here: https://bit.ly/DevCLokoja7WeeksOfCode
-- Check our recommended learning materials for resources
+- Check our [recommended learning materials](https://github.com/devclokoja/resources) for each category.
 - Start learning!
 
 ## Rewards
