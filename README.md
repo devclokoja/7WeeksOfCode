@@ -20,7 +20,7 @@ This challenge starts on **11TH MAY 2020** and ends on the **22ND JUNE 2020**.
 
 - **Data Science/ Machine Learning** (Mentors: [Aziz Abdulsamad](https://github.com/Abdulsamod1), [Yoma Okobiah](https://github.com/yomdroid) and [Nkechi Diana](https://github.com/nkdiana))
 
-- **UI/UX Design** (Mentors: [Marvin Ogah](https://github.com/dudesoamazing) and [Bolaji Ayodeji](https://github.com/BolajiAyodeji))
+- **UI/UX Design** (Mentors: [Marvin Ogah](https://github.com/dudesoamazing) and [Sani Rich](https://github.com/sarscode))
 
 - **Cloud Computing** (Mentors: [Obinna Odirionye](https://github.com/nerdeveloper) and [Abdullahi Adebayo](https://github.com/adabsmith)
 
