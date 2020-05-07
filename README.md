@@ -18,25 +18,25 @@ This challenge starts on 11TH MAY 2020 and ends on the 22ND JUNE 2020.
 
 - Web/ Mobile Development
 
-Mentors:
+Mentors: [Elewude Okikijesu](https://github.com/helewud), [Ahmed Yusuf](https://github.com/iloveteajay) and [Nelson Michael](https://github.com/theSultan00)
 
 - Data Science/ Machine Learning
 
-Mentors:
+Mentors: [Aziz Abdulsamad](https://github.com/Abdulsamod1), [Yoma Okobiah](https://github.com/yomdroid) and [Nkechi Diana](https://github.com/nkdiana)
 
 - UI/UX Design
 
-Mentors:
+Mentors: [Marvin Ogah](https://github.com/dudesoamazing) and [Bolaji Ayodeji](https://github.com/BolajiAyodeji)
 
 - Cloud Computing
 
-Mentors:
+Mentors: [Obinna Odirionye](https://github.com/nerdeveloper) and [Abdullahi Adebayo](https://github.com/adabsmith)
 
 - Technical Writing
 
-Mentors: @bolajiayodeji
+Mentors: [Bolaji Ayodeji](https://github.com/BolajiAyodeji) and [Eddidiong Asipko](https://github.com/edyasikpo)
 
-M## Main Rules
+## Main Rules
 
 - Learn and code daily for a minimum of 1 hour for the next 7 weeks from the start date
 - Share your progress every day with the community on the FB group with the hashtag #DevCLokoja7WeeksOfCode
