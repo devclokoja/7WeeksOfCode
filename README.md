@@ -1,5 +1,3 @@
-# 7WeeksOfCode
-
 <div align="center">
   
   ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1588872260117/qrNwMiSic.png)
